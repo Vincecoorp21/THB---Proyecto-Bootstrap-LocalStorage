@@ -140,7 +140,7 @@ function fdelete() {
 Para poder visualizar el proyectos tendrás que clonarte el repositorio por medio del siguiente Link:
 
 ```
-https://github.com/Vincecoorp21/THB---Bootstrap
+https://github.com/Vincecoorp21/THB---Proyecto-Bootstrap-LocalStorage
 ```
 
 #### Vista Previa
