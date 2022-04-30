@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+form {
+  width: 40%;
+  margin: 0 auto;
+}
+#logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+h2 {
+  text-align: center;
+}
+.card {
+  color: black;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  padding: 10px;
+  text-align: center;
+}
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+div #show-users {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+}
